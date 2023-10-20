@@ -1,0 +1,29 @@
+.products {
+    display: flex; /* Usamos flexbox para alinhar os itens horizontalmente */
+    align-items: center; /* Centraliza verticalmente os itens (imagem e texto) */
+}
+
+/* Estilize a imagem */
+.products img {
+    max-width: 50%; /* Defina a largura máxima da imagem (ajuste conforme necessário) */
+    margin-right: 20px; /* Espaçamento à direita da imagem */
+}
+
+/* Estilize o texto ao lado da imagem */
+.products p {
+    margin: 0; /* Remova margens padrão do parágrafo */
+}
+
+/* Estilize os parágrafos */
+.price {
+    margin: 0; /* Remova a margem superior padrão */
+}
+
+.sizes {
+    margin-top: 10px; /* Adicione um espaço de 10px acima deste parágrafo */
+}
+
+.description {
+    margin-top: 10px; /* Adicione um espaço de 10px acima deste parágrafo */
+}
+
