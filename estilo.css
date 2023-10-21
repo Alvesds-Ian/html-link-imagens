@@ -3,6 +3,10 @@
     align-items: center; /* Centraliza verticalmente os itens (imagem e texto) */
 }
 
+.productsg {
+    border: 1px solid #ccc;
+}
+
 /* Estilize a imagem */
 .products img {
     max-width: 50%; /* Defina a largura máxima da imagem (ajuste conforme necessário) */
