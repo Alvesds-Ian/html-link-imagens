@@ -7,20 +7,17 @@
     border: 1px solid #ccc;
 }
 
-/* Estilize a imagem */
 .products img {
-    max-width: 50%; /* Defina a largura máxima da imagem (ajuste conforme necessário) */
-    margin-right: 20px; /* Espaçamento à direita da imagem */
+    margin-right: 20px; 
 }
 
-/* Estilize o texto ao lado da imagem */
 .products p {
-    margin: 0; /* Remova margens padrão do parágrafo */
+    margin: 0; 
 }
 
-/* Estilize os parágrafos */
 .price {
-    margin: 0; /* Remova a margem superior padrão */
+    font-size: 18pt;
+    margin: 0;
 }
 
 .sizes {
@@ -47,9 +44,8 @@ body{
     margin-right: 20px; /* Espaçamento à direita da imagem */
 }
 
-/* Estilize o texto ao lado da imagem */
 .header h1, h4 {
-    margin: 0; /* Remova margens padrão do parágrafo */
+    margin: 0; 
     color: rgb(230, 230, 230)
 }
 
