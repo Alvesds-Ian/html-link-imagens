@@ -1,10 +1,10 @@
 .products {
-    display: flex; /* Usamos flexbox para alinhar os itens horizontalmente */
-    align-items: center; /* Centraliza verticalmente os itens (imagem e texto) */
+    display: flex; 
+    align-items: center; 
 }
 
 .productsg {
-    border: 1px solid #ccc;
+    border: 1pt solid #ccc;
 }
 
 .products img {
@@ -16,16 +16,17 @@
 }
 
 .price {
+    margin-top: 10pt;
     font-size: 18pt;
     margin: 0;
 }
 
 .sizes {
-    margin-top: 10px; /* Adicione um espaço de 10px acima deste parágrafo */
+    margin-top: 10px; 
 }
 
 .description {
-    margin-top: 10px; /* Adicione um espaço de 10px acima deste parágrafo */
+    margin-top: 10px; 
 }
 
 body{
@@ -35,13 +36,12 @@ body{
 
 .header {
     background-color: rgb(0, 47, 47);
-    display: flex; /* Usamos flexbox para alinhar os itens horizontalmente */
+    display: flex; 
     align-items: center;
 }
 
-/* Estilize a imagem */
 .header img {
-    margin-right: 20px; /* Espaçamento à direita da imagem */
+    margin-right: 20px; 
 }
 
 .header h1, h4 {
@@ -53,8 +53,8 @@ body{
     position: absolute;
     right: 0;
     margin-top: 0;
-    padding: 10px;
-    border: 1px solid #ccc;
+    padding: 10pt;
+    border: 1pt solid #ccc;
     
 }
 
